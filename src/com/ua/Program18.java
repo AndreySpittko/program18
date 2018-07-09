@@ -6,7 +6,10 @@ public class Program18 {
 		Person18 p1 = new Person18();
 		Employee18 e1 = new Employee18();
 		Client18 c1 = new Client18();
-
+		
+		p1.display();
+		e1.display();
+		c1.display();
 		
 		System.out.println("++++++++++++++");
 		

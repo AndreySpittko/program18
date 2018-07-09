@@ -31,8 +31,6 @@ public class Person18 {
 	}
 	
 	
-	p1.display();
-	e1.display();
-	c1.display();
+
 
 }
